@@ -1,0 +1,4 @@
+Programar CUENTA 
+PARTICION 2
+
+*8 5555 [312] [ (nº cuenta PARTICION 2) ] #   Ej: 1234

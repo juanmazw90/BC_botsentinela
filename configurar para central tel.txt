@@ -1,0 +1,6 @@
+ -------------------------------------------------------------------------------------------------------
+
+ [301]*45*0*5*03401481456
+el 4 es q disque , el 5 pausa, 0 es el numero q usa para salir, 5 es otra pausa y luego el tel
+[302]*45*0*5*03401481457
+el 4 es q disque , el 5 pausa, 0 es el numero q usa para salir, 5 es otra pausa y luego el tel
